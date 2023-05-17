@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>348674673776-10ap87m95p0k7h8eabbfk11kgqtcv43f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.348674673776-10ap87m95p0k7h8eabbfk11kgqtcv43f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBs6lBlM73Oh_lgw3pkgLfpr9BcqzLe2gk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>348674673776</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rkuBusGuideAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>rkubusguide</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rkubusguide.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:348674673776:ios:fabef4d3fe768cd54378b5</string>
+</dict>
+</plist>

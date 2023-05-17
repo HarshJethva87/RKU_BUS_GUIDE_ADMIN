@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "348674673776",
+    "project_id": "rkubusguide",
+    "storage_bucket": "rkubusguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348674673776:android:214f8240c60b49c64378b5",
+        "android_client_info": {
+          "package_name": "com.example.rku_bus_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348674673776-frajdcl3i9su0f3ape2ku4plajlcos9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkJ1OKjC2Ou-i-JwAdM884XZgocY3NY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348674673776-frajdcl3i9su0f3ape2ku4plajlcos9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348674673776-uh96n8cp4es93pq03o0dedj7r6s3nrli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rkuBusGuide"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348674673776:android:acd03407662f59144378b5",
+        "android_client_info": {
+          "package_name": "com.example.rku_bus_guide_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348674673776-frajdcl3i9su0f3ape2ku4plajlcos9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkJ1OKjC2Ou-i-JwAdM884XZgocY3NY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348674673776-frajdcl3i9su0f3ape2ku4plajlcos9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348674673776-uh96n8cp4es93pq03o0dedj7r6s3nrli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rkuBusGuide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
